@@ -3,11 +3,13 @@
 Predicting Customer Churn with Machine Learning & Power BI! 
 Customer retention is a key business challenge, and understanding churn can help businesses take proactive steps. I recently worked on predicting customer churn using machine learning and visualized the insights with Power BI.
 🪪 Dataset : Kaggle Telecom Customer Churn Data 
+
 🔍 What I Did:
 -Data Processing (ETL): Cleaned and transformed data using SQL Server.
 - Feature Engineering & Selection: Identified key churn drivers using feature importance analysis.
 - Churn Prediction Model: Trained a Random Forest model in Python to predict potential churners.
 - Power BI Dashboards: Created interactive visualizations to highlight patterns in customer demographics, contract types, and service usage affecting churn.
+
 Improvements to do :
 1.Remove unwanted attributes to get a better churn rate
 2.Try different ML models 
